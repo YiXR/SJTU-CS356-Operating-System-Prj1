@@ -1,0 +1,34 @@
+Server£º
+Server initiating...
+Receiving message:516021910717-Yixr
+Receiving message:asdfasdf123321
+Server thread closing...
+Receiving message:OsPrj-516021910717
+Server thread closing...
+Receiving message:"q
+Server thread closing...
+
+Client1£º
+Please enter the message:
+516021910717-Yixr
+From server:516021910717-Blau
+:q
+Clinet closing...
+
+Client2£º
+Please enter the message:
+asdfasdf123321
+From server:dvgidvgi123321
+:q
+Clinet closing...
+
+Client3£º
+Please enter the message:
+qweqwe
+Please wait...
+OsPrj-516021910717
+From server:RvSum-516021910717
+"q
+From server:"t
+:q
+Clinet closing...

@@ -1,0 +1,9 @@
+insmod sys_ptree.ko 
+module load!
+
+lsmod
+Module                  Size  Used by
+sys_ptree               1362  0 
+
+rmmod sys_ptree
+module exit!
